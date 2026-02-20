@@ -28,6 +28,7 @@ JWT Authentication
 Socket.io
 
 ⚙️ How to Run the Project (Terminal Commands)
+
 1️⃣ Clone the Repository
 git clone <your-repository-link>
 cd ResolveNow
