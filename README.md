@@ -35,6 +35,8 @@ cd ResolveNow
 
 2️⃣ Run Backend
 Open terminal and run:
+cd Your-Platform-for-Online-Complaint-main
+cd ComplaintManagement
 cd backend
 npm install
 node server.js
@@ -44,6 +46,8 @@ http://localhost:5000
 
 3️⃣ Run Frontend
 Open another terminal and run:
+cd Your-Platform-for-Online-Complaint-main
+cd ComplaintManagement
 cd frontend
 npm install
 npm start
